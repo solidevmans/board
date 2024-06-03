@@ -26,4 +26,6 @@ public class BoardController {
         return "테스트";
     }
 
+    // 테스트용
+
 }
