@@ -1,3 +1,4 @@
+/*테스트 ^^ */
 //package com.soli.dev.board.entity;
 //
 //import kr.or.semas24.cmmn.Globals;
