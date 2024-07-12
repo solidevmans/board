@@ -3,14 +3,8 @@ package com.soli.dev.post.dto;
 import com.soli.dev.common.dto.BaseDto;
 import com.soli.dev.post.entity.Post;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import java.time.LocalDateTime;
-
-/**
- * 사업추진협의회 DTO
- */
 @Getter
 @Setter
 public class PostDto extends BaseDto {

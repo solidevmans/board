@@ -9,11 +9,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import lombok.*;
 
-import java.time.LocalDateTime;
-
-/**
- * 사업추진협의회 엔티티
- */
 @Entity
 @Getter
 @Setter(AccessLevel.PROTECTED)
