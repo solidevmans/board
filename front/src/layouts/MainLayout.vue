@@ -59,6 +59,12 @@ const linksList = [
     icon: 'school',
     to: '/post'
   },
+  {
+    title: 'BoardList',
+    caption: 'quasar.dev',
+    icon: 'school',
+    to: '/boardList'
+  },
 ]
 </script>
 
